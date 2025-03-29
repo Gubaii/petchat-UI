@@ -24,7 +24,6 @@ logs/
 
 # Server files
 server/audio_cache/
-public/assets/images/paolun.png
 public/audio/
 
 # Large media files
